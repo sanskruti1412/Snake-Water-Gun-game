@@ -33,7 +33,8 @@ The game follows these rules, and the winner is decided based on the player's an
 1. Make sure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
 2. Clone this repository or download the ZIP file:
    ```bash
-   git clone https://github.com/<your-username>/Snake-Water-Gun-Game.git
-   cd Snake-Water-Gun-Game
+   [git clone https://github.com/<your-username>/Snake-Water-Gun-Game.git
+   cd Snake-Water-Gun-Game]
+   (https://github.com/sanskruti1412/Snake-Water-Gun-game.git)
 
 
